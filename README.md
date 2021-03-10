@@ -16,8 +16,8 @@ Full Stack Developer - Java | ReactJS, Computer Technician, and programming stud
 ![VSCODE](https://img.shields.io/badge/VS%20CODE-E34F26?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![ECLIPSE](https://img.shields.io/badge/ECLIPSE-0039e6?style=for-the-badge&logo=eclipse&logoColor=white)
 
-[![TOP-LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=javadev-jef&layout=compact)](https://github.com/javadev-jef/github-readme-stats)
-[![GITHUB-STATS](https://github-readme-stats.vercel.app/api?username=javadev-jef&count_private=true&show_icons=true&theme=default)](https://github.com/javadev-jef/github-readme-stats)
+[![TOP-LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=javadev-jef&bg_color=000000&text_color=c9d1d9&layout=compact)](https://github.com/javadev-jef/github-readme-stats)
+[![GITHUB-STATS](https://github-readme-stats.vercel.app/api?username=javadev-jef&bg_color=000000&text_color=c9d1d9&count_private=true&show_icons=true&theme=default)](https://github.com/javadev-jef/github-readme-stats)
 
 ## My Workspace
 ![WINDOWS](https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logoColor=white)
